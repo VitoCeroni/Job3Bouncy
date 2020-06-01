@@ -1,0 +1,26 @@
+div.foot-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.foot-block h1 {
+    font-family: "SFNS Display Bold",sans-serif;
+    color: #323a45;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+div.foot-block p {
+    font-family: "OpenSans", sans-serif;
+    color: #92969d;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+div.footer-img {
+    padding-top: 2%;
+    padding-bottom: 5%;
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}

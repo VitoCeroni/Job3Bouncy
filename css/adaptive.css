@@ -1,0 +1,151 @@
+@media (min-width: 768.98px) and (max-width: 991.98px) {
+    #logo {padding-left: 1%;}
+    div.this_is_boucy {padding: 4% 10%;}
+    div.this-text p {letter-spacing: 0.6px;line-height: 21px;font-size: 13px;font-weight: 100;}
+    div.this-img img {width: 70%;}
+    div.details-text {padding-bottom: 3%;font-size: 13px;line-height: 20px;}
+    div.curtain {height: 250px;}
+    div.curtainfoot p {font-size: 13px;font-weight: 100;padding: 2% 0px;}
+    div.curtainfoot a {padding: 5px;font-size: 13px;}
+    div.ourservices-block {padding: 3% 7%;}
+    div.ourservices-block-left {justify-content: center;}
+    div.ourservices-block-right {width: 600px;}
+    a.ourservices-block-img2 {margin: 20% 0;}
+    a.ourservices-block-img4 {margin-top: 20%;}
+    div.ourservices-block-center {font-size: 13px;}
+    div.ourservices-block-center p {line-height: 21px;}
+    div.ourservices-block-right img {width: 95%;}
+    div.monitor {margin-top: -30px;}
+    div.monitor img {width: 90%;}
+    div.impresed-left p {font-weight: 100;font-size: 13px;padding-bottom: 4%;line-height: 20px;}
+    div.impresed-left h5 {font-size: 15px;}
+    div.start-project {height: 120px;}
+    p.news-top-p {padding-bottom: 3%;}
+    p.news-btm-p {padding-bottom: 5%;font-weight: 400;font-size: 13px;}
+    div.latest-news1-bottom {width: auto;}
+    #subscribe-submit {font-size: 14px; letter-spacing: 1.5px;}
+    div.subscribe-top {padding: 3% 0;}
+    div.subscribe-top p {font-size: 14px;}
+    p.contact-block-bottom {line-height: 22px; font-size: 12px;font-weight: 100;}
+}
+
+@media (min-width: 575.98px) and (max-width: 768.98px) {
+    #logo {position: absolute;top: 20px;}
+    div.this_is_boucy {padding: 2% 4%;}
+    div.this-text h3 {font-size: 18px; padding-bottom: 6%;letter-spacing: 4px;}
+    div.this-text p {line-height: 22px;font-size: 12px;}
+    div.this-img img {width: 74%;}
+    div.details-text {padding: 2% 5%;font-size: 12px;}
+    div.details-text-box2 {margin-left: 10%;}
+    div.curtain {height: 170px;}
+    div.curtainfoot {padding: 0 1%;}
+    div.curtainfoot p {width: 400px;line-height: 20px;font-size: 13px;}
+    div.ourservices-block {flex-direction: column;padding: 2% 6%;align-items: center;padding-bottom: 8%;}
+    div.ourservices-block-left {flex-direction: row;padding-right: 0;width: 50%;}
+    div.ourservices-block-center {padding-right: 0;display: flex;flex-direction: column;align-items: center;padding-top: 2%;}
+    div.ourservices-block-center h4 {padding-bottom: 0;}
+    div.ourservices-block-center p {padding-top: 1%; line-height: 20px;}
+    div.ourservices-block-center p.osb-bottom-p {padding-top: 3%;padding-bottom: 3%;}
+    div.ourservices-block-right {margin-left: 0px;}
+    div.ourservices-block-right img {width: 60%;}
+    div.monitor {margin-top: -20px;}
+    div.monitor img {width: 85%;}
+    div.impresed-left {padding-bottom: 2%;}
+    div.impresed-left h4 {padding-top: 4%;padding-bottom: 3%;}
+    div.impresed-left p {font-size: 12px;line-height: 17px;}
+    div.impresed-left h5 {font-size: 12px;}
+    div.start-project {height: 100px;}
+    div.start-project p {font-size: 10px;padding-bottom: 0; letter-spacing: 0.5px;}
+    div.start-project a {font-size: 13px;}
+    div.start-project p {font-size: 12px;font-weight: 100;}
+    div.the-team-block {padding-bottom: 0;margin-bottom: 4%;}
+    div.the-team-block p {font-size: 13px;}
+    div.latest-news1-top h4 {font-size: 19px;padding-bottom: 10px;padding-top: 5px;}
+    div.latest-news1-top p {line-height: 17px;font-size: 13px;}
+    div.latest-news1-bottom {width: auto;}
+    div.latest-news1-bottom h4 {font-size: 17px;}
+    p.news-top-p {font-size: 14px;padding-bottom: 4%;padding-top: 1%;}
+    p.news-btm-p {font-size: 12px; padding-bottom: 2%;line-height: 17px;font-weight: 100;}
+    div.price-block {padding: 3% 1%;}
+    div.subscribe-top p {font-size: 13px;line-height: 20px;font-weight: 100;}
+    div.subscribe-top {padding: 1%;}
+    div.subscribe-top {width: auto;}
+    div.subscribe-bottom {width: 100%;}
+    #subscribe-submit {width: auto;letter-spacing: 1px;font-size: 12px;padding: 1%;}
+    #subscribe-text {width: auto;padding: 2%;}
+    p.contact-block-top {font-size: 18px;}
+    p.contact-block-bottom {letter-spacing: 0.4px; font-size: 8px;}
+    div.contact-block div.contact-block-box {height: 200px;}
+    div.user-top input { width: 100%;padding: 1%;}
+}
+
+@media (min-width: 240.98px) and (max-width: 575.98px) {
+    .mobile-tab a:hover {border-bottom: 2px solid rgb(58, 37, 37);}
+    div.baner p {font-size: 10px;padding-left: 2px;}
+    #logo {position: absolute;top: 20px;}
+    div.baner h1 {font-size: 18px;}
+    div.this_is_boucy {padding: 2% 4%;}
+    div.this-text h3 {font-size: 18px; padding-bottom: 6%;letter-spacing: 1px;}
+    div.this-text p {line-height: 14px;font-size: 9px;}
+    div.this-img img {width: 74%;}
+    div.this-img {display: flex;align-items: center;}
+    div.details {line-height: 18px;font-size: 10px;}
+    div.details-text {padding: 2% 1%;font-size: 10px;line-height: 13px;}
+    div.details-text-box2 {margin-left: 10%;}
+    div.details p {padding-left: 2px;text-align: center;}
+    div.featured p {font-size: 10px;line-height: 18px;padding-left: 2px;text-align: center;}
+    div.curtain {height: 120px;}
+    div.curtainfoot {padding: 0 1%;}
+    div.curtainfoot p {width: 300px;line-height: 14px;font-size: 8px;}
+    div.curtainfoot a {font-weight: 100; font-size: 10px;width: auto;padding: 3px 10px;padding-left: 2px;text-align: center;}
+    div.our_services p {line-height: 18px;font-size: 10px;padding-left: 2px;text-align: center;}
+    div.ourservices-block {flex-direction: column;padding: 2% 6%;align-items: center;padding-bottom: 8%;}
+    div.ourservices-block-left {flex-direction: row;padding-right: 0;width: 100%;}
+    div.ourservices-block-center {padding-right: 0;display: flex;flex-direction: column;align-items: center;padding-top: 2%;width: 100%;}
+    div.ourservices-block-center h4 {padding-bottom: 0;}
+    div.ourservices-block-center p {padding-top: 1%; line-height: 18px;font-size: 12px;padding-left: 2px;text-align: center;}
+    div.ourservices-block-center p.osb-bottom-p {padding-top: 3%;padding-bottom: 3%;}
+    div.ourservices-block-right {margin-left: 0px;width: 100%;}
+    div.ourservices-block-right img {width: 60%;}
+    div.ourservices-block-right p {font-size: 11px;}
+    div.monitor {margin-top: -20px;}
+    div.monitor img {width: 85%;}
+    div.impresed-left {padding-bottom: 2%;}
+    div.impresed-left h4 {padding-top: 4%;padding-bottom: 3%;font-size: 16px;}
+    div.impresed-left p {font-size: 10px;line-height: 17px;font-weight: 100;}
+    div.impresed-left h5 {font-size: 12px;}
+    div.portfolio p {line-height: 18px;font-size: 10px;padding-left: 2px;text-align: center;}
+    div.start-project {height: 65px;text-align: center;}
+    div.start-project p {font-size: 8px;padding-bottom: 0; letter-spacing: 0.5px;line-height: 18px;}
+    div.start-project a {font-size: 10px;}
+    div.start-project p {font-size: 8px;font-weight: 100;line-height: 18px;}
+    div.the-team p {font-size: 10px;line-height: 18px;padding-left: 2px;text-align: center;}
+    div.the-team-img {padding: 2%;}
+    div.the-team-text {padding: 0;padding-left: 2px;}
+    div.the-team-block {padding-bottom: 0;margin-bottom: 4%;display: flex;flex-direction: column;align-items: center;}
+    div.the-team-block p {font-size: 10px;}
+    div.latest-news1-top h4 {font-size: 17px;padding-bottom: 10px;padding-top: 5px;}
+    div.latest-news1-top p {line-height: 16px;font-size: 10px;}
+    div.latest-news1-bottom {width: auto;}
+    div.latest-news1-bottom h4 {font-size: 12px;}
+    p.news-top-p {font-size: 10px;padding-bottom: 4%;padding-top: 1%;}
+    p.news-btm-p {font-size: 10px; padding-bottom: 2%;line-height: 17px;font-weight: 100;}
+    div.Our-price p {font-size: 10px;line-height: 18px;padding-left: 2px;text-align: center;}
+    div.price-block {padding: 3% 1%;display: flex;flex-direction: column;align-items: center;}
+    .pad-boxes {margin: 5% 0;}
+    div.subscribe-top p {font-size: 10px;line-height: 18px;font-weight: 100;padding-left: 2px;text-align: center;}
+    div.subscribe-top {padding: 1%;}
+    div.subscribe-top {width: auto;}
+    div.subscribe-bottom {width: 100%;display: flex;flex-direction: column;align-items: center;}
+    #subscribe-submit {width: auto;letter-spacing: 1px;font-size: 12px;padding: 1%;margin-top: 5%;}
+    #subscribe-text {width: auto;padding: 2%;}
+    div.contact p {font-size: 10px;line-height: 18px;padding-left: 2px;text-align: center;}
+    div.contact-block {flex-direction: column;padding: 3% 2%;align-items: center;}
+    p.contact-block-top {font-size: 18px;}
+    p.contact-block-bottom {letter-spacing: 0.4px; font-size: 8px;}
+    div.contact-block div.contact-block-box {height: 200px;width: 70%;}
+    div.user-form {padding: 4% 8%;}
+    div.user-top {flex-direction: column;}
+    div.user-top input { width: 100%;padding: 1%;}
+    div.foot-block p {font-size: 9px;}
+}
